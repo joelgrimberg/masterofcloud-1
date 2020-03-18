@@ -20,7 +20,7 @@
 ## Introduction
 
 Welcome to the first assignment of this crash course in cloud engineering. This repository
-contains all the source code necessary to build, test and uplaod and deploy resources on AWS.
+contains all the source code necessary to build, test and upload and deploy resources on AWS.
 For the time being, you do not need to know about the purpose of all the different files,
 however it is key to understand the difference between provisioning resources through the
 AWS console and through (infrastructure as) code:
