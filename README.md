@@ -98,7 +98,7 @@ LoggingBucket         masterofcloudtestdependencystack-loggingbucket-1k4tgzqwvr5
 ```
 
 These values contain all the bootstrapping your stack will need for now. You do not
-need to know what they are right now. We'll go in depth in a later excersize.
+need to know what they are right now. We'll go in depth in a later excercise.
 
 You do not need to copy these values manually: Issue the following command: `./rake_dependencies.sh`
 
