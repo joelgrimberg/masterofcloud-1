@@ -105,3 +105,9 @@ Style/EvalWithLocation:
 
 Style/PerlBackrefs:
   Enabled: false
+
+Style/TrailingCommaInArrayLiteral:
+  Enabled: false
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
